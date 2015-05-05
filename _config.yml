@@ -1,12 +1,12 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Charlotte Goes to India
+description: A scrapbook making sense of the world
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /charlottes_blog/
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
